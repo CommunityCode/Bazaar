@@ -13,7 +13,7 @@ namespace bazaar
         {
             InitializeComponent();
 
-            MainPage = new bazaar.MainPage();
+            MainPage = new bazaar.View.BuyPage();
         }
 
         protected override void OnStart()
